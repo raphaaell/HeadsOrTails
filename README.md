@@ -1,4 +1,4 @@
-# HEADS OR TAILS
+# HEADS OR TAILS (cmd)
 Heads or tails it's a funny game, you have to choice how many participants play, enter their name, then how many rounds of the game you want, and in turn, 
 players will have to say whether the coin is going to make heads or tails. If the player loose, he have to drink !
 
